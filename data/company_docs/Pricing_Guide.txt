@@ -1,0 +1,48 @@
+PRICING PLANS
+=============
+
+STARTER — Free
+--------------
+- Up to 3 projects
+- 1 GB storage
+- Community support (forums only)
+- Basic analytics
+- 1 user seat
+
+STANDARD — $19/month (billed monthly) or $15/month (billed annually)
+--------------------------------------------------------------------
+- Unlimited projects
+- 50 GB storage
+- Email support (48-hour response time)
+- Advanced analytics and reporting
+- Up to 5 devices
+- 3 user seats included ($5/month per additional seat)
+
+PRO — $49/month (billed monthly) or $39/month (billed annually)
+---------------------------------------------------------------
+- Everything in Standard
+- 500 GB storage
+- Priority support (4-hour response time)
+- API access (10,000 calls/month)
+- Custom integrations (Slack, Zapier, Salesforce)
+- Unlimited devices
+- 10 user seats included ($4/month per additional seat)
+
+ENTERPRISE — Custom pricing
+----------------------------
+- Everything in Pro
+- Unlimited storage
+- Dedicated account manager
+- 99.99% SLA uptime guarantee
+- SSO and SAML support
+- On-premise deployment option
+- Unlimited users
+- Custom API limits
+- 24/7 phone support
+
+EDUCATION & NON-PROFIT DISCOUNT
+---------------------------------
+50% discount available on Standard and Pro plans. Email sales@company.com
+with proof of eligibility.
+
+For volume licensing or custom contracts, contact sales@company.com.

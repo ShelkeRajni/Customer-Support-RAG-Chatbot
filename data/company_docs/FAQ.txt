@@ -1,0 +1,32 @@
+FREQUENTLY ASKED QUESTIONS
+==========================
+
+Q: How do I create an account?
+A: Visit our website at www.company.com and click "Sign Up". Enter your email
+   address, choose a password, and verify your email. Your account will be
+   active within minutes.
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page. Enter your registered email and
+   we'll send a reset link. The link expires after 24 hours. If you don't
+   receive the email, check your spam folder or contact support.
+
+Q: What payment methods do you accept?
+A: We accept Visa, Mastercard, American Express, PayPal, and bank transfers.
+   All payments are processed securely via Stripe. We do not store card details.
+
+Q: Is my data secure?
+A: Yes. All data is encrypted at rest (AES-256) and in transit (TLS 1.3).
+   We are SOC 2 Type II and GDPR compliant.
+
+Q: Can I use the product on multiple devices?
+A: Yes. Your account supports up to 5 simultaneous devices on the Standard plan
+   and unlimited devices on the Pro and Enterprise plans.
+
+Q: How do I cancel my subscription?
+A: Go to Account Settings → Subscription → Cancel. Your access continues until
+   the end of the current billing period. No refunds are issued for partial months.
+
+Q: Do you offer a free trial?
+A: Yes, a 14-day free trial is available for all new accounts. No credit card
+   required. Full access to all Pro features during the trial.
